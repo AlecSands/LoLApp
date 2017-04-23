@@ -1,0 +1,1 @@
+var championImage = 'MissFortune.png'
