@@ -5,5 +5,5 @@ function preload() {
 }
 
 function main() {
-    alert(summonerInfo);
+    alert(summonerInfo.name + summonerInfo.summonerLevel);
 }
