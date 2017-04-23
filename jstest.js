@@ -1,1 +1,3 @@
-alert('Yay Java!');
+function main() {
+  $('.champlist' 
+}
