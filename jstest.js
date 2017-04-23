@@ -1,0 +1,1 @@
+alert('Yay Java!');
