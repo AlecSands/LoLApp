@@ -11,6 +11,7 @@ myRequest.onreadystatechange = function(){
 	console.log(myRequest.readyState);
 	if (myRequest.readyState === 4) {
 		console.log(myRequest.responseText);
+	}
 };
 
 // configure and send
