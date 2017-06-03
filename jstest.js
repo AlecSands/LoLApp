@@ -15,5 +15,5 @@ myRequest.onreadystatechange = function(){
 };
 
 // configure and send
-myRequest.open("GET", "//na1.api.riotgames.com/lol/summoner/v3/summoners/by-name/sand0848?api_key=RGAPI-1f6ceaad-7c6d-4b9d-8624-c25b883afa41", true);
+myRequest.open("GET", "//na1.api.riotgames.com/lol/summoner/v3/summoners/by-name/sand0848?api_key=", true);
 myRequest.send(null);
